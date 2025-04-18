@@ -16,5 +16,7 @@ Looking forward to your feedback!
 ### Developers
 
 - [@kurages](https://github.com/kurages)
-- [@ruka64-dev](https://github.com/ruka64-dev)
+- [@gx1285](https://github.com/gx1285)
+- [@siraisi368](https://github.com/siraisi368)
+- [@ROBOTofficial](https://github.com/ROBOTofficial)
 
